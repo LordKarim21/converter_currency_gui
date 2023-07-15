@@ -1,1 +1,0 @@
-# converter_currency_gui
